@@ -1,4 +1,4 @@
-# train-tracks
+# Train-Tracks
 This repository was created by Oliver Fife on 3/5/2026 for the purpose of giving public acsees to the source files for the numerical methods and visualization tools for the 3rd 2026 Ross mathematics Program Application Problem.
 
 ## Requirements
