@@ -9,3 +9,5 @@ This repository was created by Oliver Fife on 3/5/2026 for the purpose of giving
  - main.py | Entry point. Ideal location to visualize trakcs and preform calculations
  - card.py | Program of central object track. Other methods could be made.
  - global_variables.py | Parameters, initialization, and many functions.
+
+Note that many artifacts in these files are not finished. 
